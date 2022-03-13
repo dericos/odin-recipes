@@ -1,2 +1,2 @@
 # odin-recipes
-A quick HTML recipe design
+First full HTML design project by Kohl Mertz ft Odin Project
